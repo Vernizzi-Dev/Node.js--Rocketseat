@@ -1,0 +1,18 @@
+{
+  "name": "01-treino-rotas-http",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev:start": "node --watch src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.6.2",
+    "inquirer": "^13.1.0",
+    "log-symbols": "^7.0.1"
+  }
+}
